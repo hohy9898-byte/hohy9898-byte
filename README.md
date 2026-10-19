@@ -19,7 +19,7 @@ Email: hohy9898@gmail.com
   FastAPI 챗봇 서버와 위젯. 평가셋을 만들어 답변 통과율을 72%에서 97%로 올렸다.
 - [부산, 축제 어디까지 가는 거예요?](https://github.com/hohy9898-byte/bang-portpolio/tree/main/sc_project) (팀장, 3명) · [Demo](https://site-make.netlify.app/)
   Vue로 커뮤니티 게시판을 만들고, 브라우저에 노출되던 API 키를 서버리스 함수로 옮겼다.
-- [도서 데이터 수집과 AI 분류](https://github.com/hohy9898-byte/bang-portpolio/tree/main/02-pjt)
+- [도서 데이터 수집과 AI 분류](https://github.com/hohy9898-byte/bang-portpolio/tree/main/02-pjt) (개인)
   도서 API를 페이지네이션으로 수집하고 생성형 AI로 분류했다.
 
 SSAFY 프로젝트 전체 모음: [bang-portpolio](https://github.com/hohy9898-byte/bang-portpolio)
